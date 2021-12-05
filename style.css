@@ -15,11 +15,13 @@ body {
 
 header {
     background: #333;
-    
+    color: #efeee7;
+
 }
 
 /* Bootstrap example */
   .box {
+    min-height: 50px;
     height: 400px;
     padding: 20px;
     color: #fff;
