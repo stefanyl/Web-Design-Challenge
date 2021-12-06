@@ -12,37 +12,17 @@
 /* Navigation bar */
 .navbar {
     max-height: 60px;
-    background-color :#d4b6f7;
+    background-color :lightgray;
+    color: rgb(13, 4, 73);
     font-size: 25px;
 
 }
-.navigation .navbar-brand {
-    color: rgb(13, 4, 73);
-    margin-left: 0px;
-    padding: inherit;
-    font-weight: bold;
-    background-color: rgb(245, 245, 245);
-    font-family: Verdana, Arial, Helvetica, sans-serif;
-}
 
 
-.active, .dropdown-menu .dropdown-item:active a:hover {
-    background-color: rgba(34, 233, 240, 0.687);
-  }
 .dropdown-item {
 color: #213159;
 }
-.dropdown .dropdown-menu .dropdown-item:active, .dropdown .dropdown-menu .dropdown-item:hover {
-background-color: #4b9bf0;
-}
-  
-.nav-link:hover {
-background-color:#E7E7E7;
-}
-  
-.navbar-brand:hover {
-color: #4b9bf0;
-}
+
 
 /* Bootstrap example */
 .box {
