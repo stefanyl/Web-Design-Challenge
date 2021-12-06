@@ -12,16 +12,16 @@
 /* Navigation bar */
 .navbar {
     max-height: 60px;
-    background-color :#efeee7;
+    background-color :#d4b6f7;
     font-size: 25px;
 
 }
 .navigation .navbar-brand {
-    color: white;
+    color: rgb(13, 4, 73);
     margin-left: 0px;
     padding: inherit;
     font-weight: bold;
-    background-color: white;
+    background-color: rgb(245, 245, 245);
     font-family: Verdana, Arial, Helvetica, sans-serif;
 }
 
