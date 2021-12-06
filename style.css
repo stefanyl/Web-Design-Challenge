@@ -51,10 +51,10 @@ color: #4b9bf0;
 /* Bootstrap example */
 .box {
 min-height: 50px;
-height: 400px;
+height: 600px;
 padding: 20px;
 color: #fff;
-background: deepskyblue;
+background: rgb(13, 4, 73);
 }
 
 .margin-top-80 {
