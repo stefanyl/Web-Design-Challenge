@@ -37,7 +37,7 @@
 color: #213159;
 }
 .dropdown .dropdown-menu .dropdown-item:active, .dropdown .dropdown-menu .dropdown-item:hover {
-background-color: #f04b4c;
+background-color: #4b9bf0;
 }
   
 .nav-link:hover {
@@ -45,7 +45,7 @@ background-color:#E7E7E7;
 }
   
 .navbar-brand:hover {
-color: #f04b4c;
+color: #4b9bf0;
 }
 
 /* Bootstrap example */
